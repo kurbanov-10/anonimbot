@@ -1,6 +1,6 @@
 import telebot
 
-token = '8335459586:AAG9Y8d2DF3RAJZup_9PmjFuYbao7U9V2hw'
+token = '8335459586:'
 bot=telebot.TeleBot(token)
 
 user_targets={}
